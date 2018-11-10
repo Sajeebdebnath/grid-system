@@ -1,5 +1,4 @@
 # Raw Grid-system
-## This is raw html and css grid System.
 
 * col-1{ width:8.33% }
 * col-2{ width:16.66% }
@@ -15,7 +14,7 @@
 * col-12{ width:100% }
 
 
- [class*='col-']{
+-  [class*='col-']{
  	float: left;
  	box-sizing: border-box;
  	border: 1px solid;
