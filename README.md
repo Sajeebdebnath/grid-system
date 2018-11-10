@@ -1,7 +1,7 @@
 # Raw Grid-system
-##This is raw html and css grid System.
+## This is raw html and css grid System.
 
- . col-1{ width:8.33% }
+*col-1{ width:8.33% }
  .col-2{ width:16.66% }
  .col-3{ width:25% }
  .col-4{ width:33.33% }
