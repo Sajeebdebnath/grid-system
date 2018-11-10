@@ -14,7 +14,7 @@
 * col-12{ width:100% }
 
 
-```
+```ruby
  [class*='col-']{
  	float: left;
  	box-sizing: border-box;
