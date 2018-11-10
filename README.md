@@ -14,22 +14,24 @@
 * col-12{ width:100% }
 
 
-'''
+```
  [class*='col-']{
  	float: left;
  	box-sizing: border-box;
  	border: 1px solid;
  }
-'''
-
-> .wrapper{
+```
+```
+ .wrapper{
 	width: 80%;
 	margin: 0 auto;
 	height: auto;
 }
-
-> .row::after{
+```
+```
+ .row::after{
 	content: '';
 	clear: both;
 	display: block;
 }
+```
