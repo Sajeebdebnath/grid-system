@@ -21,14 +21,14 @@
  	border: 1px solid;
  }
 ```
-```
+```ruby
  .wrapper{
 	width: 80%;
 	margin: 0 auto;
 	height: auto;
 }
 ```
-```
+```ruby
  .row::after{
 	content: '';
 	clear: both;
