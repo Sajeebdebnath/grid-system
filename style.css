@@ -1,5 +1,4 @@
-# Raw Grid-system
-This is raw html and css grid System.
+ /*Raw Grid System Start*/
 
  .col-1{ width:8.33% }
  .col-2{ width:16.66% }
@@ -33,3 +32,27 @@ This is raw html and css grid System.
 	clear: both;
 	display: block;
 }
+
+
+
+
+.header-top-height{
+	height: 30px;
+}
+.header-height{
+	height: 200px;
+}
+.menu-height{
+	height: 50px;
+}
+.content-height{
+	height: 500px;
+}
+.big-footer-height{
+	height: 200px;
+}
+.footer-height{
+	height: 30px;
+}
+
+/*End Grid System*/
